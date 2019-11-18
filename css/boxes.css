@@ -1,0 +1,22 @@
+h1{
+    font-family: kefa;
+    font-size: 90px;
+}
+h2{
+    font-family: kefa;
+    font-size: 150px;
+}
+h3{
+    font-family: kefa;
+    font-size: 185px;
+}
+.form-row{
+    padding: 10px;
+    font-family: kefa;
+}
+.btn{
+    font-family: kefa;
+    font-size: 25px;
+    padding: 10px;
+    margin-bottom: 10px;
+}

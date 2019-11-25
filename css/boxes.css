@@ -1,6 +1,7 @@
 h1{
     font-family: kefa;
     font-size: 90px;
+    color: white;
 }
 h2{
     font-family: kefa;
@@ -19,4 +20,29 @@ h3{
     font-size: 25px;
     padding: 10px;
     margin-bottom: 10px;
+}
+#city{
+    font-family: kefa;
+    font-size: 100px;
+    color: white;
+}
+#degrees{
+    font-family: kefa;
+    font-size: 150px;
+    color: white;
+}
+#typeweather{
+    font-family: arial;
+    font-size: 100px;
+    color: white;
+}
+#picture{
+    background-image: url(img/rain.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+}
+#bigMain{
+    border: 20px beige solid;
+    background-color: teal;
 }
